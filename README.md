@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swastik</h1>
-<h3 align="center">A passionate, highly analytical mobile app developer specializing in cross-platform application development using Flutter and Dart. I have hands-on experience building multiple Flutter applications, along with four months of professional internship experience in Flutter development.</h3>
+<h3 align="center">A passionate, highly analytical mobile app developer specializing in cross-platform application development using Flutter and Dart. I have hands-on experience building multiple Flutter applications, along with six months of professional internship experience in Flutter development.</h3>
 
 - 🌱 I’m currently learning **Backend, AWS, GCP**
 
